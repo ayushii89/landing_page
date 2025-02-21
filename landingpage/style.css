@@ -1,0 +1,46 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#main
+{
+     width: 100%;
+    height: 100%;
+    background-color: red;
+    display: flex;
+}
+#left
+{
+     width: 35%;
+    height: 100%;
+    background-color: yellow;
+
+}
+#right
+{
+     width: 66%;
+    height: 100%;
+    background-color: white;
+
+}
+#rtop
+{
+     width: 100%;
+    height: 50%;
+    background-color: red;
+
+}
+#rbottom
+{
+     width: 100%;
+    height: 50%;
+    background-color: rgb(242, 178, 59);
+
+}
